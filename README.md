@@ -91,6 +91,6 @@ Non-relational databases (noSQL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-toledo-moreira/)
 
 # 📊 GitHub Stats:
-<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=LucasKoritar23&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=LucasKoritar23&theme=neon&hide_border=false"  width="400px" />
+<img src="https://github-readme-stats-wheat-two-53.vercel.app/api?username=fernandotoledomoreira&theme=neon&hide_border=false&include_all_commits=false&count_private=false"  width="364px" />                    <img src="https://github-readme-streak-stats.herokuapp.com/?user=fernandotoledomoreira&theme=neon&hide_border=false"  width="400px" />
 
-![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=LucasKoritar23&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats-wheat-two-53.vercel.app/api/top-langs/?username=fernandotoledomoreira&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
