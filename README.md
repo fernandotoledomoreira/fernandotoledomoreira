@@ -1,10 +1,13 @@
 # 👋 Hi there
 
-Olá! Me chamo Fernando (Pano), tenho 29 anos, sou QA e adoro inovações, me aprofundo em músia e novas tecnologias nas horas vagas. Atualmente trabalho como QA Software Engineering Specialist.
+Olá! Me chamo Fernando (Pano), tenho 29 anos, atualmente trabalho como QA Software Engineering Specialist.Com mais de 8 anos de experiência em Teste de Software, sou um profissional apaixonado por garantir a qualidade em todo processo de desenvolvimento. Formado em Gestão da Tecnologia da Informação pela Faculdade Estácio, tenho habilidade em planejar, modelar e executar testes funcionais, não funcionais, integrados, regressão, caixa branca, caixa preta, exploratórios e exceção. Sou especializado em reportar e acompanhar defeitos, produzindo relatórios diários e trabalhando com ferramentas de testes como AllureTestops, TestRail, Zephyr Scale, Jira, K6 e sMockin.
 
-# 🚀 Expertise
+Como Agile Tester, utilizo Ruby como minha linguagem principal e possuo conhecimento em API com cucumber/httparty, Web com cucumber/capybara, além de experiência em Java com cucumber e selenium. Recentemente, tenho atuado em muitos serviços AWS, SQL e noSQL, realizando diversas interações via automação. Além disso, possuo habilidades em automação de testes com Playwright e Python para API's, WEB e Mobile.
 
-Atuo na área de QA há 8 anos. Atuei em diversos clientes do setor financeiro e possuo amplo conhecimento em automação de testes de API, Frontend e Mobile. Além de possuir conhecimento em DevOps e Cloud.
+Também sou instrutor na Udemy, com o curso "Automação para testes de API com Playwright e Python"
+
+https://www.udemy.com/course/automacao-para-testes-de-api-com-playwright-e-python
+
 
 # Test Stacks
 ![Cucumber](https://img.shields.io/badge/-Cucumber-brightgreen?style=for-the-badge&logo=cucumber&logoColor=white)
