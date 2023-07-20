@@ -6,7 +6,7 @@ Como Agile Tester, utilizo Ruby como minha linguagem principal e possuo conhecim
 
 Também sou instrutor na Udemy, com o curso "Automação para testes de API com Playwright e Python"
 
-https://www.udemy.com/course/automacao-para-testes-de-api-com-playwright-e-python
+[![Udemy](https://img.shields.io/badge/Udemy-8A2BE2.svg?logo=Udemy&logoColor=white)](https://www.udemy.com/course/automacao-para-testes-de-api-com-playwright-e-python)
 
 
 # Test Stacks
