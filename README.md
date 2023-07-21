@@ -88,7 +88,7 @@ Non-relational databases (noSQL)
 
 # 🏅 certifications:
 
-<a href="https://www.credly.com/badges/d31e9665-6f60-4fd4-9bf8-73b405c94d2e"><img src="https://o.remove.bg/downloads/0b935afe-69ae-42d0-ad2d-009e3c3fcc97/Selo-FL-removebg-preview.png" alt="Descrição da imagem" style="width:150px;"></a>
+<a><img src="https://o.remove.bg/downloads/0b935afe-69ae-42d0-ad2d-009e3c3fcc97/Selo-FL-removebg-preview.png" alt="Descrição da imagem" style="width:150px;"></a>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-toledo-moreira/)
