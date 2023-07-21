@@ -88,7 +88,7 @@ Non-relational databases (noSQL)
 
 # 🏅 certifications:
 
-<a><img src="https://o.remove.bg/downloads/0b935afe-69ae-42d0-ad2d-009e3c3fcc97/Selo-FL-removebg-preview.png" alt="Descrição da imagem" style="width:150px;"></a>
+<a><img src="https://github.com/fernandotoledomoreira/fernandotoledomoreira/blob/master/Selo-FL-removebg-preview.png?raw=true" alt="Descrição da imagem" style="width:150px;"></a>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-toledo-moreira/)
