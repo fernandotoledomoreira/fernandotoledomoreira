@@ -72,8 +72,7 @@ Non-relational databases (noSQL)
 # Reports
 ![Allure Reports](https://img.shields.io/badge/-Allure%20Reports-FF8400?style=for-the-badge&logo=allure&logoColor=white)
 ![Pytest Reports](https://img.shields.io/badge/-Pytest%20Reports-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
-![Cucumber Reports](https://img.shields.io/badge/-Cucumber%20Reports-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
-![JUnit](https://img.shields.io/badge/-JUnit-25A162?style=for-the-badge&logo=junit&logoColor=white)
+![Cucumber Reports](https://img.shields.io/badge/-Cucumber%20Reports-brightgreen?style=for-the-badge&logo=cucumber&logoColor=white)
 
 # Tools
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
